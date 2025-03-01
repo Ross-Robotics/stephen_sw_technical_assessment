@@ -1,6 +1,13 @@
 # Software Engineer Technical Assessment
 RRL-SETA-0225
 
+## Before committing to this repo
+
+```
+pip install pre-commit
+pre-commit install
+```
+
 ## Instructions To Candidates
 
 Create a new branch of this repository with a name of your choosing. DO the work for all three questions in this branch.
