@@ -4,7 +4,7 @@ RRL-SETA-0225
 ## Before committing to this repo
 
 ```
-pip install pre-commit
+pip install pre-commit clang-format
 pre-commit install
 ```
 
